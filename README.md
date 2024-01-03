@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **anything you like**
 
-- 📫 How to reach me **'hamzalabbaalli@gmail.com'**
+- 📫 How to reach me **'hlnaji.dev@gmail.com'**
 
 - 📄 Know about my experiences and my articles on LinkedIn profile [https://www.linkedin.com/in/hlnaji](https://www.linkedin.com/in/hlnaji)
 
