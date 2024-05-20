@@ -3,6 +3,10 @@
 <h3 align="center">A Full Stack and Software Developer from Morocco ❤</h3>
 <div hidden>
     <a href="https://github.com/hlnajz">hlnajz github</a>
+    <a href="https://github.com/hlnajz">#hlnajz #github</a>
+    #hlnajz #github
+    #hlnajzgithub
+    #githubhlnajz
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
