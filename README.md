@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/hlnaji/assets/main/dev.gif)](https://hlnaji.io)
+[![MasterHead](https://raw.githubusercontent.com/hlnaji/assets/main/dev.gif)](https://github.com/hlnajz)
 <h1 align="center"> Salute I'm Hamza Labbaalli (Ennaji) 👋</h1>
 <h3 align="center">A Full Stack and Software Developer from Morocco ❤</h3>
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
@@ -8,21 +8,21 @@
 
 - 🌱 I’m currently learning **All about Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/hlnaji](https://github.com/hlnaji)
+- 👨‍💻 All of my projects are available at [https://github.com/hlnajz](https://github.com/hlnajz)
 
 - 💬 Ask me about **anything you like**
 
 - 📫 How to reach me **'hlnaji.dev@gmail.com'**
 
-- 📄 Know about my experiences and my articles on LinkedIn profile [https://www.linkedin.com/in/hlnaji](https://www.linkedin.com/in/hlnaji)
+- 📄 Know about my experiences and my articles on LinkedIn profile [https://www.linkedin.com/in/hlnajz](https://www.linkedin.com/in/hlnajz)
 
 - ⚡ **I'm going to be one of the best developers in the world**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/hlnaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/hlnaji" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/hlnaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/hlnaji" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/hlnaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hlnaji" height="30" width="40" /></a>
+<a href="https://codepen.io/https://codepen.io/hlnajz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/hlnajz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/in/hlnajz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/hlnajz" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/hlnajz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hlnajz" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hamzalabbaalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hamzalabbaalli" height="30" width="40" /></a>
 </p>
 
