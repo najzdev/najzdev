@@ -1,13 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/hlnaji/assets/main/dev.gif)](https://github.com/hlnajz)
 <h1 align="center"> Salute I'm Hamza Labbaalli (Ennaji) 👋</h1>
 <h3 align="center">A Full Stack and Software Developer from Morocco ❤</h3>
-<div hidden>
-    <a href="https://github.com/hlnajz">hlnajz github</a>
-    <a href="https://github.com/hlnajz">#hlnajz #github</a>
-    #hlnajz #github
-    #hlnajzgithub
-    #githubhlnajz
-</div>
+
 
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
@@ -43,4 +37,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hlnaji&show_icons=true&locale=en" alt="hlnaji" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hlnaji&" alt="hlnaji" /></p>
+<div hidden>
+    <a href="https://github.com/hlnajz">hlnajz github</a>
+    <a href="https://github.com/hlnajz">#hlnajz #github</a>
+    #hlnajz #github
+    #hlnajzgithub
+    #githubhlnajz
+</div>
 
