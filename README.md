@@ -8,16 +8,6 @@
 
 - 🔭 I’m currently working on **shieldDev**
 
-- 🌱 I’m currently learning **All about Full Stack Development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/hlnajz](https://github.com/hlnajz)
-
-- 💬 Ask me about **anything you like**
-
-- 📫 How to reach me **'hlnaji.dev@gmail.com'**
-
-- 📄 Know about my experiences and my articles on LinkedIn profile [https://www.linkedin.com/in/hlnajz](https://www.linkedin.com/in/hlnajz)
-
 - ⚡ **I'm going to be one of the best developers in the world**
 
 <h3 align="left">Connect with me:</h3>
