@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/hlnaji/assets/main/dev.gif)](https://github.com/hlnajz)
 <h1 align="center"> Salute I'm Hamza Labbaalli (hlnajz) 👋</h1>
-<h3 align="center">A Full Stack and Software Developer from Morocco ❤</h3>
+<h3 align="center">A Full Stack Developer from Morocco ❤</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **shieldDev**
 
-- ⚡ **I'm going to be one of the best developers in the world**
+- ⚡ **I'm going to be one of the best full stack developers in the world**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
