@@ -12,8 +12,6 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/hlnajz/assets/refs/heads/main/3.gif">
 
 
-- 🔭 I’m currently Studying more on **Tamayouz Centre IT FSA**
-
 - ⚡ **I'm going to be one of the best developers in the world**
 
 <h3 align="left">Connect with me:</h3>
