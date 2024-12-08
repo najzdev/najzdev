@@ -2,6 +2,7 @@
 <h1 align="center"> Salute I'm Hamza Labbaalli (hlnajz) 👋</h1>
 <h3 align="center">A skilled Computer Scientist and Full Stack Web Developer with expertise in IoT, Networking, Cybersecurity, and Embedded Systems. from Morocco ❤</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hlnajz&label=Profile%20views&color=0e75b6&style=flat" alt="hlnajz- Hamza Labbaalli" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
