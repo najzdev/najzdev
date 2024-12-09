@@ -2,14 +2,14 @@
   <a href="https://github.com/hlnajz">
     <img
       src="https://raw.githubusercontent.com/hlnajz/assets/refs/heads/main/ezgif-4-c4ba695e5f.gif"
-      alt="MasterHead"
+      alt="hlnajz - hamza labbaalli - labbaalli - لباعلي حمزة"
       style="width: 45%;"
     />
   </a>
   <a href="https://github.com/hlnajz">
     <img
       src="https://raw.githubusercontent.com/hlnajz/assets/refs/heads/main/32.webp"
-      alt="MasterHead"
+      alt="hlnajz - hamza labbaalli - labbaalli - لباعلي حمزة"
       style="width: 45%;"
     />
   </a>
