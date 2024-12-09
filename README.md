@@ -1,17 +1,20 @@
-<p align="center">
- <a href="https://github.com/hlnajz">    <img
+<p align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <a href="https://github.com/hlnajz">
+    <img
       src="https://raw.githubusercontent.com/hlnajz/assets/refs/heads/main/ezgif-4-c4ba695e5f.gif"
       alt="MasterHead"
+      style="width: 45%;"
     />
- </a>
+  </a>
   <a href="https://github.com/hlnajz">
     <img
       src="https://raw.githubusercontent.com/hlnajz/assets/refs/heads/main/32.webp"
       alt="MasterHead"
+      style="width: 45%;"
     />
-    
   </a>
 </p>
+
 
 <h1 align="center">Salam I'm Hamza Labbaalli (hlnajz) 👋</h1>
 <h3 align="center">
