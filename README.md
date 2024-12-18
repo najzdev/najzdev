@@ -36,7 +36,7 @@
   src="https://raw.githubusercontent.com/hlnajz/assets/refs/heads/main/3.gif"
 />
 
-- ⚡ **I'm going to be one of the best developers in the world**
+- ⚡ **I'm going to be one of the best developers in the Morocco 🇲🇦**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
