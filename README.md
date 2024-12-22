@@ -19,7 +19,7 @@
 <h1 align="center">Salam I'm Hamza Labbaalli (hlnajz) 👋</h1>
 <h3 align="center">
   A Talented Computer Scientist and Full Stack Web Developer with expertise in
-  IoT, Networking, Cybersecurity, and Embedded Systems. from Morocco ❤
+  IoT, Networking, Cybersecurity, and Embedded Systems، I am from Morocco ❤
 </h3>
 
 <p align="left">
