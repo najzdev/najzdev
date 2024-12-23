@@ -1,4 +1,11 @@
+
 <p align="center" style="display: flex; justify-content: center; gap: 10px;">
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&gradient=true&color=6A5ACD,1E90FF&lines=Salam+I+am+Hamza+Labbaalli;A+Talented+Computer+Scientist;Full+Stack+Web+Developer;Expert+in+IoT,+Networking,+and+Cybersecurity;Skilled+in+Embedded+Systems;Proudly+From+Morocco+❤;" 
+    alt="Typing SVG" />
+</a>
+
+
   <a href="https://github.com/hlnajz">
     <img
       src="https://raw.githubusercontent.com/hlnajz/assets/refs/heads/main/ezgif-4-c4ba695e5f.gif"
