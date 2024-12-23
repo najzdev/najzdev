@@ -414,17 +414,27 @@
 </p>
 
 <p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=hlnajz&show_icons=true&locale=en&layout=compact"
-    alt="hlnajz"
-  />
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=hlnajz&theme=radical" />
 </p>
 
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=hlnajz&show_icons=true&locale=en"
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlnajz&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" 
     alt="hlnajz"
   />
 </p>
+
+
+
+
+<br/>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/hlnajz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hlnajz" /></a></p><br><br>
+<br><br>
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+###
