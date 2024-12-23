@@ -427,14 +427,14 @@
 
 
 
-
-<br/>
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/hlnajz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hlnajz" /></a></p><br><br>
-<br><br>
-
-### ✍️ Random Dev Quote
+### 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ###
+
+<br/>
+<h3 align="left">Buy Me Coffe 3afak :)</h3>
+<p><a href="https://www.buymeacoffee.com/hlnajz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hlnajz" /></a></p><br><br>
+<br><br>
+
