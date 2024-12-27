@@ -5,22 +5,20 @@
     alt="Typing SVG" />
 </a>
 
-
-  <a href="https://github.com/hlnajz">
+ <a href="https://github.com/hlnajz" style="flex: 1; text-align: left;">
     <img
       src="https://raw.githubusercontent.com/hlnajz/assets/refs/heads/main/ezgif-4-c4ba695e5f.gif"
       alt="hlnajz - hamza labbaalli - labbaalli - لباعلي حمزة"
       style="width: 45%;"
     />
   </a>
-  <a href="https://github.com/hlnajz">
+  <a href="https://github.com/hlnajz" style="flex: 1; text-align: right;">
     <img
       src="https://raw.githubusercontent.com/hlnajz/assets/refs/heads/main/32.webp"
       alt="hlnajz - hamza labbaalli - labbaalli - لباعلي حمزة"
       style="width: 30%;"
     />
   </a>
-</p>
 
 
 <h1 align="center">Salam I'm Hamza Labbaalli (hlnajz) 👋</h1>
