@@ -428,14 +428,14 @@
 <br>
 
 <p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hlnajz&theme=ocean-dark&card_width=300&card_height=190" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img  align="center" src="https://streak-stats.demolab.com?user=hlnajz&theme=ocean-dark&card_width=300&card_height=190" alt="GitHub Streak" /></a>
 </p>
 
 <br>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
-<h3 align="left">Buy Me 9hiwa 3afak :)</h3>
-<p><a href="https://www.buymeacoffee.com/hlnajz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hlnajz" /></a></p>
+<h3 align="left">Chrili 9hiwa 3afak :)</h3>
+<p><a href="https://www.buymeacoffee.com/hlnajz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="200" alt="hlnajz" /></a></p>
 <br>
 
