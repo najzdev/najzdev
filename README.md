@@ -10,7 +10,8 @@
     />
   </a>
   <a href="https://github.com/hlnajz" >
-    <img
+    <img 
+      align="center"
       src="https://raw.githubusercontent.com/hlnajz/assets/refs/heads/main/32.webp"
       alt="hlnajz - hamza labbaalli - labbaalli - لباعلي حمزة"
       style="width: 30%;"
