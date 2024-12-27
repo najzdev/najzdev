@@ -428,7 +428,7 @@
 <br>
 
 <p>
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hlnajz&theme=buefy-dark&card_width=400&card_height=190" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hlnajz&theme=ocean-dark&card_width=300&card_height=190" alt="GitHub Streak" /></a>
 </p>
 
 <br>
