@@ -8,8 +8,6 @@
       alt="hlnajz - hamza labbaalli - labbaalli - لباعلي حمزة"
       style="width: 45%;"
     />
-  </a>
-  <a href="https://github.com/hlnajz" >
     <img 
       align="center"
       src="https://raw.githubusercontent.com/hlnajz/assets/refs/heads/main/32.webp"
@@ -17,6 +15,8 @@
       style="width: 30%;"
     />
   </a>
+  
+ 
 </p>
 
 
