@@ -1,29 +1,19 @@
-
-
-<p  >
-  <a href="https://github.com/hlnajz" >
-    <img 
-      align="center"
+<p align="center">
+  <a href="https://github.com/hlnajz" style="display: inline-block; margin-right: 20px;">
+    <img
       src="https://raw.githubusercontent.com/hlnajz/assets/refs/heads/main/ezgif-4-c4ba695e5f.gif"
       alt="hlnajz - hamza labbaalli - labbaalli - لباعلي حمزة"
       style="width: 45%;"
     />
-   
   </a>
-
-  
-  <a>
-   <img 
-      align="center"
+  <a href="https://github.com/hlnajz" style="display: inline-block;">
+    <img
       src="https://raw.githubusercontent.com/hlnajz/assets/refs/heads/main/32.webp"
       alt="hlnajz - hamza labbaalli - labbaalli - لباعلي حمزة"
       style="width: 30%;"
     />
   </a>
-  
- 
 </p>
-
 
 
 
