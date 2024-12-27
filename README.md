@@ -27,7 +27,7 @@
 
 <h1 align="center">Salam I'm Hamza Labbaalli (hlnajz) 👋</h1>
 <h3 align="center">
-  A Talented Computer Scientist and Full Stack Web Developer with expertise in
+  A Talented Computer Scientist, Full Stack Developer with expertise in
   IoT, Networking, Cybersecurity, and Embedded Systems، I am from Morocco ❤
 </h3>
 
@@ -41,7 +41,7 @@
 <img
   align="right"
   alt="Coding"
-  width="400"
+  width="350"
   src="https://raw.githubusercontent.com/hlnajz/assets/refs/heads/main/3.gif"
 />
 
