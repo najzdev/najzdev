@@ -427,6 +427,12 @@
 
 <br>
 
+<p>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hlnajz&theme=buefy-dark&card_width=400&card_height=190" alt="GitHub Streak" /></a>
+</p>
+
+<br>
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <h3 align="left">Buy Me 9hiwa 3afak :)</h3>
