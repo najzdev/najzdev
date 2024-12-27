@@ -3,7 +3,7 @@
     <img
       src="https://raw.githubusercontent.com/hlnajz/assets/refs/heads/main/ezgif-4-c4ba695e5f.gif"
       alt="hlnajz - hamza labbaalli - labbaalli - لباعلي حمزة"
-      style="width: 45%;"
+      style="width: 75%;"
     />
   </a>
  
