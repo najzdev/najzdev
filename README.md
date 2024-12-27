@@ -17,7 +17,7 @@
     <img
       src="https://raw.githubusercontent.com/hlnajz/assets/refs/heads/main/32.webp"
       alt="hlnajz - hamza labbaalli - labbaalli - لباعلي حمزة"
-      style="width: 25%;"
+      style="width: 35%;"
     />
   </a>
 </p>
