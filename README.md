@@ -5,15 +5,15 @@
 </a>
 </p>
 
-<p align="center" style="display: flex; justify-content: space-between; align-items: center;">
-  <a href="https://github.com/hlnajz" style="flex: 1; text-align: left;">
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <a href="https://github.com/hlnajz" style="text-align: center;">
     <img
       src="https://raw.githubusercontent.com/hlnajz/assets/refs/heads/main/ezgif-4-c4ba695e5f.gif"
       alt="hlnajz - hamza labbaalli - labbaalli - لباعلي حمزة"
       style="width: 45%;"
     />
   </a>
-  <a href="https://github.com/hlnajz" style="flex: 1; text-align: right;">
+  <a href="https://github.com/hlnajz" style="text-align: center;">
     <img
       src="https://raw.githubusercontent.com/hlnajz/assets/refs/heads/main/32.webp"
       alt="hlnajz - hamza labbaalli - labbaalli - لباعلي حمزة"
@@ -21,6 +21,7 @@
     />
   </a>
 </p>
+
 
 
 
