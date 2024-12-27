@@ -1,18 +1,12 @@
 <p align="center">
-  <a href="https://github.com/hlnajz" style="display: inline-block; margin-right: 20px;">
+  <a href="https://github.com/hlnajz" style="display: inline-block; margin-right: 0px;">
     <img
       src="https://raw.githubusercontent.com/hlnajz/assets/refs/heads/main/ezgif-4-c4ba695e5f.gif"
       alt="hlnajz - hamza labbaalli - labbaalli - لباعلي حمزة"
       style="width: 45%;"
     />
   </a>
-  <a href="https://github.com/hlnajz" style="display: inline-block;">
-    <img
-      src="https://raw.githubusercontent.com/hlnajz/assets/refs/heads/main/32.webp"
-      alt="hlnajz - hamza labbaalli - labbaalli - لباعلي حمزة"
-      style="width: 30%;"
-    />
-  </a>
+ 
 </p>
 
 
@@ -404,17 +398,24 @@
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hlnajz&theme=radical" />
 </p>
 
+ <a href="https://github.com/hlnajz" style="display: inline-block;">
+    <img
+      src="https://raw.githubusercontent.com/hlnajz/assets/refs/heads/main/32.webp"
+      alt="hlnajz - hamza labbaalli - labbaalli - لباعلي حمزة"
+      style="width: 30%;"
+    />
+  </a>
+
+<br>
+
 <p>
+  <p>
   &nbsp;<img
     align="center"
    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlnajz&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" 
     alt="hlnajz"
   />
 </p>
-
-<br>
-
-<p>
 <a href="https://git.io/streak-stats"><img  align="center" src="https://streak-stats.demolab.com?user=hlnajz&theme=ocean-dark&card_width=300&card_height=190" alt="GitHub Streak" /></a>
 </p>
 
@@ -424,6 +425,7 @@
 
 <h3 align="left">Chrili 9hiwa 3afak :)</h3>
 <p><a href="https://www.buymeacoffee.com/hlnajz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="200" alt="hlnajz" /></a></p>
+<br>
 <br>
 - ⚡ **I'm going to be one of the best developers in the Morocco 🇲🇦**
 
