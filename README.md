@@ -1,11 +1,6 @@
-<p align="center" style="display: flex; justify-content: center; gap: 10px;">
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&gradient=true&color=6A5ACD,1E90FF&lines=Salam+I+am+Hamza+Labbaalli;Future Enginner UnchAllah;A+Talented+Computer+Scientist;Full+Stack+Web+Developer;IoT,+Cyber+security,+Embedded+Systems;Proudly+From+Morocco+❤;" 
-    alt="Typing SVG" />
-</a>
-</p>
 
-<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+
+<p  style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <a href="https://github.com/hlnajz" style="text-align: center;">
     <img
       src="https://raw.githubusercontent.com/hlnajz/assets/refs/heads/main/ezgif-4-c4ba695e5f.gif"
@@ -25,7 +20,12 @@
 
 
 
-<h1 align="center">Salam I'm Hamza Labbaalli (hlnajz) 👋</h1>
+<h2 align="center" style="display: flex; justify-content: center; gap: 10px;">
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&gradient=true&color=6A5ACD,1E90FF&lines=Salam+I+am+Hamza+Labbaalli;Future Enginner UnchAllah;A+Talented+Computer+Scientist;Full+Stack+Web+Developer;IoT,+Cyber+security,+Embedded+Systems;Proudly+From+Morocco+❤;" 
+    alt="Typing SVG" />
+</a>
+</h2>
 <h3 align="center">
   A Talented Computer Scientist, Full Stack Developer with expertise in
   IoT, Networking, Cybersecurity, and Embedded Systems، I am from Morocco ❤
@@ -384,6 +384,7 @@
       height="40"
     />
   </a>
+    <br>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
