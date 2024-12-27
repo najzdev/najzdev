@@ -28,13 +28,10 @@
     alt="hlnajz- Hamza Labbaalli"
   />
 </p>
+<br>
 
-<img
-  align="right"
-  alt="Coding"
-  width="350"
-  src="https://raw.githubusercontent.com/hlnajz/assets/refs/heads/main/3.gif"
-/>
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical) 
+
 
 
 
@@ -412,7 +409,7 @@
 </p>
 
 
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical) 
+
 
 
 
