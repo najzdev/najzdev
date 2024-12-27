@@ -45,7 +45,7 @@
   src="https://raw.githubusercontent.com/hlnajz/assets/refs/heads/main/3.gif"
 />
 
-- ⚡ **I'm going to be one of the best developers in the Morocco 🇲🇦**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -440,4 +440,5 @@
 <h3 align="left">Chrili 9hiwa 3afak :)</h3>
 <p><a href="https://www.buymeacoffee.com/hlnajz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="200" alt="hlnajz" /></a></p>
 <br>
+- ⚡ **I'm going to be one of the best developers in the Morocco 🇲🇦**
 
