@@ -35,6 +35,12 @@
   src="https://raw.githubusercontent.com/hlnajz/assets/refs/heads/main/3.gif"
 />
 
+<img
+      src="https://raw.githubusercontent.com/hlnajz/assets/refs/heads/main/32.webp"
+      alt="hlnajz - hamza labbaalli - labbaalli - لباعلي حمزة"
+      style="width: 30%;"
+    />
+  
 
 
 
@@ -414,19 +420,6 @@
 <p>
 <a href="https://git.io/streak-stats"><img  align="left" src="https://streak-stats.demolab.com?user=hlnajz&theme=ocean-dark&card_width=300&card_height=190" alt="GitHub Streak" /></a>
 </p>
-<p > <a href="https://github.com/hlnajz" style="display: inline-block;">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/hlnajz/assets/refs/heads/main/32.webp"
-      alt="hlnajz - hamza labbaalli - labbaalli - لباعلي حمزة"
-      style="width: 30%;"
-    />
-  </a></p>
-<p><a href="https://www.buymeacoffee.com/hlnajz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="150" alt="hlnajz" /></a></p>
-<br>
-<br>
-- ⚡ **Chrili chi 9hiwa 3afak :)**
-<br>
-- ⚡ **I'm going to be one of the best developers in the Morocco 🇲🇦**
+
 
 
