@@ -244,6 +244,7 @@
       height="40"
     />
   </a>
+    <br>
   <a href="https://golang.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
@@ -317,6 +318,7 @@
       height="40"
     />
   </a>
+    <br>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
