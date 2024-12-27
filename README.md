@@ -1,11 +1,12 @@
-
 <p align="center" style="display: flex; justify-content: center; gap: 10px;">
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&gradient=true&color=6A5ACD,1E90FF&lines=Salam+I+am+Hamza+Labbaalli;Future Enginner UnchAllah;A+Talented+Computer+Scientist;Full+Stack+Web+Developer;IoT,+Cyber+security,+Embedded+Systems;Proudly+From+Morocco+❤;" 
     alt="Typing SVG" />
 </a>
+</p>
 
- <a href="https://github.com/hlnajz" style="flex: 1; text-align: left;">
+<p align="center" style="display: flex; justify-content: space-between; align-items: center;">
+  <a href="https://github.com/hlnajz" style="flex: 1; text-align: left;">
     <img
       src="https://raw.githubusercontent.com/hlnajz/assets/refs/heads/main/ezgif-4-c4ba695e5f.gif"
       alt="hlnajz - hamza labbaalli - labbaalli - لباعلي حمزة"
@@ -19,6 +20,8 @@
       style="width: 30%;"
     />
   </a>
+</p>
+
 
 
 <h1 align="center">Salam I'm Hamza Labbaalli (hlnajz) 👋</h1>
