@@ -1,6 +1,6 @@
 
 
-<p  style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<p  >
   <a href="https://github.com/hlnajz" style="text-align: center;">
     <img
       src="https://raw.githubusercontent.com/hlnajz/assets/refs/heads/main/ezgif-4-c4ba695e5f.gif"
