@@ -396,32 +396,25 @@
 
 <p>
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hlnajz&theme=radical" />
+  
 </p>
-
- <a href="https://github.com/hlnajz" style="display: inline-block;">
-    <img
-      src="https://raw.githubusercontent.com/hlnajz/assets/refs/heads/main/32.webp"
-      alt="hlnajz - hamza labbaalli - labbaalli - لباعلي حمزة"
-      style="width: 30%;"
-    />
-  </a>
-
-<br>
-
 <p>
-  <p>
+  
   &nbsp;<img
     align="center"
    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlnajz&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" 
     alt="hlnajz"
   />
 </p>
+
+<p>
 <a href="https://git.io/streak-stats"><img  align="center" src="https://streak-stats.demolab.com?user=hlnajz&theme=ocean-dark&card_width=300&card_height=190" alt="GitHub Streak" /></a>
 </p>
 
-<br>
 
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical) 
+
+
 
 <h3 align="left">Chrili 9hiwa 3afak :)</h3>
 <p><a href="https://www.buymeacoffee.com/hlnajz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="200" alt="hlnajz" /></a></p>
