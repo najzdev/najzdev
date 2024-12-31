@@ -429,7 +429,7 @@
 <p><a href="https://www.buymeacoffee.com/hlnajz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="150" alt="hlnajz" /></a></p>
 <br>
 <br>
-- ⚡ **Chrili chi 9hiwa 3afak :)**
+- ⚡ Chrili chi 9hiwa 3afak :)
 <br>
-- ⚡ **I'm going to be one of the best developers in the Morocco 🇲🇦**
+- ⚡ I'm going to be one of the best developers in the Morocco 🇲🇦
 
