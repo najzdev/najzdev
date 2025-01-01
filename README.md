@@ -411,10 +411,13 @@
 ## 🔥 𝖲𝗍𝗋𝖾𝖺𝗄 𝖲𝗍𝖺𝗍𝗌
 
 <p>
-<a href="https://hlnajz.com"><img  align="left" src="https://streak-stats.demolab.com?user=hlnajz&theme=ocean-dark&card_width=300&card_height=190" alt="GitHub Streak" /></a>
+<a href="https://hlnajz.com"><img  align="left" src="https://streak-stats.demolab.com?user=hlnajz&theme=ocean-dark&card_width=400&card_height=200" alt="GitHub Streak" /></a>
 </p>
 
 
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
