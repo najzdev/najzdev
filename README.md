@@ -161,7 +161,7 @@
       height="40"
     />
   </a>
-  <br>
+  
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"
@@ -242,7 +242,7 @@
       height="40"
     />
   </a>
-    <br>
+    
   <a href="https://golang.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
@@ -316,7 +316,7 @@
       height="40"
     />
   </a>
-    <br>
+    
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
@@ -382,7 +382,7 @@
       height="40"
     />
   </a>
-    <br>
+   
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
