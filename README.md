@@ -403,29 +403,27 @@
 
 ## 📊 𝖦𝗂𝗍𝖧𝗎𝖻 𝖲𝗍𝖺𝗍𝗌:
 
+ ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=hlnajz&theme=dracula&hide_border=true)
+ 
 <br/>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hlnajz&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dracula&preferLogin=false">    <img  alt="hlnajz's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/hlnajz?cardType=level&theme=dracula&preferLogin=false" />  </a>
+
+<br/>
+
+  
+
+
+ 
+<br/>
+
+## 🔥 Used Languages
+
+
+
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hlnajz&langs_count=12&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=,Roff" height="192px"/></a>
-<br/>
 
-## 🔥 𝖲𝗍𝗋𝖾𝖺𝗄 𝖲𝗍𝖺𝗍𝗌
-
-<p>
-<a href="https://hlnajz.com"><img  align="left" src="https://streak-stats.demolab.com?user=hlnajz&theme=ocean-dark&card_width=400&card_height=200" alt="GitHub Streak" /></a>
-</p>
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 
 
