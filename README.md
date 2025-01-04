@@ -404,7 +404,7 @@
 
 ## 🕋 Islam Remainder:
 
- <a href="https://github.com/hlnajz/Quran-widget-front">    <img  alt="hlnajz's GitHub Stats" src="https://quran-widget-front.vercel.app/ayat/image?theme=light&type=horizontal&width=700&height=300" />  </a>
+ <a href="https://github.com/hlnajz/Quran-widget-front">    <img  alt="hlnajz's GitHub Stats" src="https://quran-widget-front.vercel.app/ayat/image?theme=light&type=horizontal&width=700&height=400" />  </a>
  
 
 
