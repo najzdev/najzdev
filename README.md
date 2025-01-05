@@ -402,9 +402,9 @@
 </p>
 
 
-## 🕋 Islam Remainder:
+## 🕋 Islam Random Remainder:
 
- <a href="https://github.com/hlnajz/Quran-widget-front">    <img  alt="Quran Sunnah Renainder" src="https://quran-widget-front.vercel.app/ayat/image?theme=light&type=horizontal&width=700&height=400" />  </a>
+ <a href="https://github.com/hlnajz/Quran-widget-front">    <img  alt="Quran Sunnah Renainder" src="https://quran-widget-front.vercel.app/ayat/image?theme=light&type=horizontal&width=800&height=400" />  </a>
  
 
 
