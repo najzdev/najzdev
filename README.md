@@ -404,7 +404,7 @@
 
 ## 🕋 Islam Random Remainder:
 
- <a href="https://github.com/hlnajz/Quran-widget-front">    <img  alt="Quran Sunnah Renainder" src="https://quran-widget-front.vercel.app/ayat/image?theme=dark&type=horizontal&width=800&height=400" />  </a>
+ <a href="https://github.com/hlnajz/Quran-widget-front">    <img  alt="Quran Sunnah Renainder" src="https://quran-sunnah-remainder.vercel.app/ayat/image?theme=dark&type=horizontal&width=800&height=400" />  </a>
  
 
 
