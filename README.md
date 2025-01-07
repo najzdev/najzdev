@@ -410,7 +410,7 @@
 
 ## 📊 𝖦𝗂𝗍𝖧𝗎𝖻 𝖲𝗍𝖺𝗍𝗌:
 
- ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=hlnajz&theme=dracula&hide_border=true)
+
  
 <br/>
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dracula&preferLogin=false">    <img  alt="hlnajz's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/hlnajz?cardType=level&theme=dracula&preferLogin=false" />  </a>
