@@ -410,10 +410,9 @@
 
 ## 📊 𝖦𝗂𝗍𝖧𝗎𝖻 𝖲𝗍𝖺𝗍𝗌:
 
-[![GitHub Streak](https://github-readme-streak-stats.entelecheia.me?user=hlnajz&theme=dracula)](https://git.io/streak-stats)
- 
+[![GitHub Streak](https://github-readme-streak-stats.entelecheia.me?user=hlnajz&theme=ocean-dark)](https://git.io/streak-stats)
 <br/>
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dracula&preferLogin=false">    <img  alt="hlnajz's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/hlnajz?cardType=level&theme=dracula&preferLogin=false" />  </a>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=ocean-dark&preferLogin=false">    <img  alt="hlnajz's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/hlnajz?cardType=level&theme=ocean-dark&preferLogin=false" />  </a>
 
 <br/>
 
