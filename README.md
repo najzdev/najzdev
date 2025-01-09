@@ -410,6 +410,7 @@
 
 ## 📊 𝖦𝗂𝗍𝖧𝗎𝖻 𝖲𝗍𝖺𝗍𝗌:
 
+[![GitHub Streak](https://github-readme-streak-stats.entelecheia.me?user=hlnajz&theme=dracula)](https://git.io/streak-stats)
 
  
 <br/>
