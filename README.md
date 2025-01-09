@@ -433,9 +433,7 @@
 
 
 
-## 😎 Random Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical) 
+## ☕ Buy me Coffee 
 
 <p><a href="https://www.buymeacoffee.com/hlnajz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="hlnajz" /></a></p>
 <br>
