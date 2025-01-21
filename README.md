@@ -441,7 +441,7 @@
 
 ## 🏆 𝖦𝗂𝗍𝖧𝗎𝖻 𝖳𝗋𝗈𝗉𝗁𝗂𝖾𝗌
 
-![](https://github-profile-trophy.vercel.app/?username=hlnajz&theme=dracula&row=1&column=6)
+![](https://github-profile-trophy.vercel.app/?username=hlnajz&theme=dracula&row=1&column=5)
 
 
 
