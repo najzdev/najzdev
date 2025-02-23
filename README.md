@@ -11,13 +11,15 @@
 
 
 
+
+
+
 <h2 align="center" style="display: flex; justify-content: center; gap: 10px;">
 
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F525F7&center=true&width=435&lines=Salam+I+am+Hamza+Labbaalli+;A+Future+Engineer+UnchAllah;A+Talented+Computer+Scientist;Full+Stack+Web+Developer;Cyber+security%2C+IoT+and+AI+;Embedded+Systems;Proudly+From+Morocco+%E2%9D%A4" alt="Typing SVG" /></a>
 </h2>
 <h3 align="center">
-  A Talented Computer Scientist, Full Stack Developer with expertise in
-  IoT, Networking, Cybersecurity, and Embedded Systems، I am from Morocco ❤
+  A Talented Computer Scientist, Full Stack Developer with expertise in IoT, Networking, Cybersecurity, Embedded Systems, Machine Learning, and Artificial Intelligence. from Morocco ❤
 </h3>
 
 <p align="left">
