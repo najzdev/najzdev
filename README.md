@@ -46,7 +46,7 @@
 
 ---
 
-### 🕋 Islam Random Reminder
+### 🕋 Islam Random Reminder API Made by Me 
 <p align="center">
   <a href="https://github.com/hlnajz/Quran-widget-front">
     <img src="https://quran-sunnah-remainder.vercel.app/ayat/image?theme=dark&type=horizontal&width=700&height=350"
