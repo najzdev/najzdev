@@ -85,7 +85,4 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hlnajz&theme=dracula&row=1&column=5" alt="GitHub Trophies"/>
-</p>
+
