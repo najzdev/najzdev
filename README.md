@@ -18,15 +18,7 @@
   <img src="https://komarev.com/ghpvc/?username=hlnajz&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hlnajz/assets/refs/heads/main/3.gif" alt="Coding" width="250" style="border-radius:10px;" />
-</p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hlnajz/assets/refs/heads/main/32.webp"
-       alt="Hamza Labbaalli"
-       style="width:25%; border-radius:12px;" />
-</p>
 
 ---
 
@@ -57,7 +49,7 @@
 ### 🕋 Islam Random Reminder
 <p align="center">
   <a href="https://github.com/hlnajz/Quran-widget-front">
-    <img src="https://quran-sunnah-remainder.vercel.app/ayat/image?theme=dark&type=horizontal&width=700&height=300"
+    <img src="https://quran-sunnah-remainder.vercel.app/ayat/image?theme=dark&type=horizontal&width=700&height=350"
          alt="Quran and Sunnah Reminder"
          style="border-radius:10px;"/>
   </a>
@@ -67,10 +59,10 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.entelecheia.me?user=hlnajz&theme=dracula" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/hlnajz?cardType=level&theme=dracula&preferLogin=false" alt="GitHub Stats" width="500"/>
+  <img src="https://github-readme-streak-stats.entelecheia.me?user=hlnajz&theme=dracula" alt="GitHub Streak" width="300"/>
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/hlnajz?cardType=level&theme=dracula&preferLogin=false" alt="GitHub Stats" width="300"/>
 </p>
+
 
 ---
 
