@@ -10,11 +10,18 @@
 <h2 align="center" style="display: flex; justify-content: center; gap: 10px;"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F525F7&center=true&width=435&lines=Salam+I+am+Hamza+Labbaalli+;A+Future+IT+Engineer+UnchAllah;A+Talented+Computer+Scientist;Full+Stack+Web+Developer;Cyber+security%2C+IoT+and+AI+;Embedded+Systems;Proudly+From+Morocco+%E2%9D%A4" alt="Typing SVG" /></a> </h2> 
 
 
-<h3 align="center" style="max-width:800px; margin:auto; text-align:justify;">
- Hackathon winner, trusted by 100+ clients with 5-star Google ratings, an IT Engineer and
-Technology Innovator with a Master’s degree in Programming and Computer Science. specializes in Full
-Stack Development, AI, Machine Learning, IoT, and Cybersecurity, creating high-impact digital solutions that
-help companies scale, increase profit, and overcome complex technical challenges. Wanna be among the best developers in Morocco 🇲🇦 ⚡
+<h3 style="
+    max-width: 800px; 
+    margin: 40px auto; 
+    text-align: center; 
+    line-height: 1.6; 
+    font-weight: 500; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    color: #333;
+">
+    🏆 Hackathon winner & trusted by <strong>100+ clients</strong> with 5-star Google ratings.<br><br>
+    I am an <strong>IT Engineer & Technology Innovator</strong> with a Master’s degree in Programming and Computer Science. I specialize in <strong>Full Stack Development, AI, Machine Learning, IoT, and Cybersecurity</strong>, crafting high-impact digital solutions that help companies scale, increase profits, and overcome complex technical challenges.<br><br>
+    Wanna be among the <strong>best developers in Morocco 🇲🇦 ⚡</strong>
 </h3>
 
 <p align="center">
