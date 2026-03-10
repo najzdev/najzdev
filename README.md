@@ -7,11 +7,14 @@
 </p>
 
 
-<h2 align="center" style="display: flex; justify-content: center; gap: 10px;"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F525F7&center=true&width=435&lines=Salam+I+am+Hamza+Labbaalli+;A+Future+Engineer+UnchAllah;A+Talented+Computer+Scientist;Full+Stack+Web+Developer;Cyber+security%2C+IoT+and+AI+;Embedded+Systems;Proudly+From+Morocco+%E2%9D%A4" alt="Typing SVG" /></a> </h2> 
+<h2 align="center" style="display: flex; justify-content: center; gap: 10px;"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F525F7&center=true&width=435&lines=Salam+I+am+Hamza+Labbaalli+;A+Future+IT+Engineer+UnchAllah;A+Talented+Computer+Scientist;Full+Stack+Web+Developer;Cyber+security%2C+IoT+and+AI+;Embedded+Systems;Proudly+From+Morocco+%E2%9D%A4" alt="Typing SVG" /></a> </h2> 
 
 
 <h3 align="center" style="max-width:800px; margin:auto; text-align:justify;">
-  A Computer Engineer and Full Stack Developer with expertise in Web Full Stack, IoT, Networking, Cybersecurity, Embedded Systems, Machine Learning, and Artificial Intelligence,  Determined to be among the best developers in Morocco 🇲🇦 ⚡
+ Hackathon winner, trusted by 100+ clients with 5-star Google ratings, an IT Engineer and
+Technology Innovator with a Master’s degree in Programming and Computer Science. specializes in Full
+Stack Development, AI, Machine Learning, IoT, and Cybersecurity, creating high-impact digital solutions that
+help companies scale, increase profit, and overcome complex technical challenges. Wanna be among the best developers in Morocco 🇲🇦 ⚡
 </h3>
 
 <p align="center">
