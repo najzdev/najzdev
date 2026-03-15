@@ -18,19 +18,18 @@
   <br />
   <img src="https://img.shields.io/badge/🏆_Winner-Hackathon_2026-F525F7?style=flat-square" /> 
   <img src="https://img.shields.io/badge/⭐_5--Star_Rating-100%2B_Clients-gold?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=hlnajz&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
   
-  <h2 align="center" style="border-bottom: none; margin-top: 20px;">Computer Engineer & Technology Innovator</h2>
+  <h2 align="center" style="border-bottom: none; margin-top: 20px;">Computer Engineer </h2>
 
-  <h3 align="center" style="max-width: 800px; line-height: 1.6; font-family: 'Segoe UI', Tahoma, sans-serif; font-weight: 400;">
-    I am a <strong>Full Stack Developer</strong> and Master's student. I build smart tools using <strong>AI, ML, IoT, and Cybersecurity</strong> to help businesses grow and solve hard technical problems.
-    <br><br>
-    Working smart to be among the <strong>best developers in Morocco 🇲🇦 ⚡</strong>
-  </h3>
+<p align="center" style="max-width: 500px; margin: 0 auto; line-height: 1.3; font-family: 'Segoe UI', Tahoma, sans-serif; font-size: 0.9rem; color: #8b949e;">
+    Full-Stack Developer & Master's Student building smart tools with <strong>AI, ML, IoT, and Cybersecurity</strong> to help businesses scale and solve complex challenges.
+    Working smart to be one of the <strong>best developers in Morocco 🇲🇦 ⚡</strong>
+   
+</p>
+  
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hlnajz&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 
 
