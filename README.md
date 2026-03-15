@@ -62,7 +62,7 @@
 
 ---
 
-<h3 align="center">🕋 Islam Random Reminder API</h3>
+<h3 align="center">🕋 My Islamic Reminder API</h3>
 <p align="center">
   <a href="https://github.com/hlnajz/Quran-widget-front">
     <img src="https://quran-sunnah-remainder.vercel.app/ayat/image?theme=dark&type=horizontal&width=500&height=250"
