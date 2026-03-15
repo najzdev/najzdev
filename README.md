@@ -6,23 +6,26 @@
   </a>
 </p>
 
+<h2 align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F525F7&center=true&vCenter=true&width=700&lines=Salam%2C+I+am+Hamza+Labbaalli;Hackathon+Winner+2026+%F0%9F%8F%86;tTrusted+by+100%2B+clients+with+5-star+Google+ratings;Future+Computer+Engineer;Full+Stack+Developer;AI+ML+Cyber+Security%2C+IoT;Proudly+From+Morocco+%F0%9F%87%B2%F0%9F%87%A6" alt="Typing SVG" />
+  </a>
+</h2>
 
-<h2 align="center" style="display: flex; justify-content: center; gap: 10px;"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F525F7&center=true&width=435&lines=Salam+I+am+Hamza+Labbaalli+;A+Future+Computer+Engineer+UnchAllah;A+Talented+Computer+Scientist;Full+Stack+Web+Developer;Cyber+security%2C+IoT+and+AI+;Embedded+Systems;Proudly+From+Morocco+%E2%9D%A4" alt="Typing SVG" /></a> </h2> 
 
+<div align="center">
+  <br />
+  <img src="https://img.shields.io/badge/🏆_Winner-Hackathon_2026-F525F7?style=flat-square" /> 
+  <img src="https://img.shields.io/badge/⭐_5--Star_Rating-100%2B_Clients-gold?style=flat-square" />
+  
+  <h2 align="center" style="border-bottom: none; margin-top: 20px;">Computer Engineer & Technology Innovator</h2>
 
-<h3 style="
-    max-width: 800px; 
-    margin: 40px auto; 
-    text-align: center; 
-    line-height: 1.6; 
-    font-weight: 500; 
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
-    color: #333;
-">
-    🏆 Hackathon winner & trusted by <strong>100+ clients</strong> with 5-star Google ratings.<br><br>
-    I am an <strong>Computer Engineer & Technology Innovator</strong> with a Master’s degree in Programming and Computer Science. I specialize in <strong>Full Stack Development, AI, Machine Learning, IoT, and Cybersecurity</strong>, crafting high-impact digital solutions that help companies scale, increase profits, and overcome complex technical challenges.<br><br>
-    Wanna be among the <strong>best developers in Morocco 🇲🇦 ⚡</strong>
-</h3>
+  <h3 align="center" style="max-width: 800px; line-height: 1.6; font-family: 'Segoe UI', Tahoma, sans-serif; font-weight: 400;">
+    I am a <strong>Full Stack Developer</strong> and Master's student. I build smart tools using <strong>AI, ML, IoT, and Cybersecurity</strong> to help businesses grow and solve hard technical problems.
+    <br><br>
+    Working smart to be among the <strong>best developers in Morocco 🇲🇦 ⚡</strong>
+  </h3>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hlnajz&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
