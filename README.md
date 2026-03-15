@@ -56,10 +56,10 @@
 
 <h3 align="center">🧠 Languages & Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,nodejs,laravel,react,nextjs,ts,go,docker,aws,mongodb,postgres,mysql,php,cpp,java,bash,git,linux,arduino,firebase,postman,figma,ai,ps,tailwind,html,css&perline=10" />
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,nodejs,laravel,react,nextjs,ts,go,docker,aws,mongodb,postgres,mysql,php,cpp,java,bash,git,linux,arduino,firebase,postman,figma,ai,ps,tailwind,html,css&perline=15" height="110" />
 </p>
  
-</p>
+
 
 ---
 
@@ -76,10 +76,9 @@
 
 <h3 align="center">📊 My GitHub Journey</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.entelecheia.me?user=hlnajz&theme=dracula&hide_border=true" alt="GitHub Streak" height="150"/>
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/hlnajz?cardType=level&theme=dracula&preferLogin=false&hide_border=true" alt="GitHub Stats" height="150"/>
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hlnajz&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=282a36&title_color=F525F7&icon_color=F8D866" height="150"/>
+  <img src="https://github-readme-streak-stats.entelecheia.me?user=hlnajz&theme=dracula&hide_border=true" alt="GitHub Streak" height="110"/>
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/hlnajz?cardType=level&theme=dracula&preferLogin=false&hide_border=true" alt="GitHub Stats" height="110"/>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hlnajz&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=282a36&title_color=F525F7&icon_color=F8D866" height="110"/>
 </p>
-
 
 
