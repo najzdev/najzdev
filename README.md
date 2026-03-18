@@ -16,7 +16,7 @@
 
 <div align="center">
   <br />
-  <img src="https://img.shields.io/badge/🏆_Winner-Hackathon_2026-F525F7?style=flat-square" /> 
+  <img src="https://img.shields.io/badge/🏆_Hackathon-Winner-F525F7?style=flat-square" /> 
   <img src="https://img.shields.io/badge/⭐_5--Star_Rating-100%2B_Clients-gold?style=flat-square" />
   <img src="https://komarev.com/ghpvc/?username=hlnajz&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
   
