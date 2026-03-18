@@ -84,7 +84,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.entelecheia.me?user=najzdev&theme=dracula&hide_border=true" alt="GitHub Streak" height="110"/>
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/najzdev?cardType=level&theme=dracula&preferLogin=false&hide_border=true" alt="GitHub Stats" height="110"/>
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=najzdev&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=282a36&title_color=F525F7&icon_color=F8D866" height="110"/>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=najzdev&langs_count=12&layout=compact&theme=react&hide_border=true&bg_color=282a36&title_color=F525F7&icon_color=F8D866" height="110"/>
 </p>
 
 
