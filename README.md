@@ -18,8 +18,14 @@
   <br />
   <img src="https://img.shields.io/badge/🏆_Hackathon-Winner-F525F7?style=flat-square" /> 
   <img src="https://img.shields.io/badge/⭐_5--Star_Rating-100%2B_Clients-gold?style=flat-square" />
-![Old Profile Views](https://komarev.com/ghpvc/?username=hlnajz&label=Old+Profile+Views&color=0e75b6&style=flat)
-![New Profile Views](https://komarev.com/ghpvc/?username=najzdev&label=New+Profile+Views&color=blueviolet&style=flat)
+  
+<!--![Old Profile Views](https://komarev.com/ghpvc/?username=hlnajz&label=Old+Profile+Views&color=0e75b6&style=flat)-->
+
+<!-- Optional: legacy badge -->
+
+
+<!-- New profile with old views included -->
+![](https://komarev.com/ghpvc/?username=najzdev&label=Profile+Views&base=13849&&color=blueviolet&style=flat)
   
   <h2 align="center" style="border-bottom: none; margin-top: 20px;">Computer Engineer </h2>
 
