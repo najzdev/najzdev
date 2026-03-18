@@ -18,7 +18,8 @@
   <br />
   <img src="https://img.shields.io/badge/🏆_Hackathon-Winner-F525F7?style=flat-square" /> 
   <img src="https://img.shields.io/badge/⭐_5--Star_Rating-100%2B_Clients-gold?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=hlnajz&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+![Old Profile Views](https://komarev.com/ghpvc/?username=hlnajz&label=Old+Profile+Views&color=0e75b6&style=flat)
+![New Profile Views](https://komarev.com/ghpvc/?username=najzdev&label=New+Profile+Views&color=blueviolet&style=flat)
   
   <h2 align="center" style="border-bottom: none; margin-top: 20px;">Computer Engineer </h2>
 
@@ -36,17 +37,17 @@
 ---
 <h3 align="center">🔗 Connect with Me</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/hlnajz" target="_blank">
+  <a href="https://linkedin.com/in/najzdev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://wa.me/212625259070" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="mailto:Contact@hlnajz.com" target="_blank">
+  <a href="mailto:hamza@najz.dev" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
  
-  <a href="https://www.buymeacoffee.com/hlnajz" target="_blank">
+  <a href="https://www.buymeacoffee.com/najzdev" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
 
@@ -64,7 +65,7 @@
 
 <h3 align="center">🕋 My Islamic Reminder API</h3>
 <p align="center">
-  <a href="https://github.com/hlnajz/Quran-widget-front">
+  <a href="https://github.com/najzdev/Quran-widget-front">
     <img src="https://quran-sunnah-remainder.vercel.app/ayat/image?theme=dark&type=horizontal&width=500&height=250"
          alt="Quran and Sunnah Reminder"
          width="450"
@@ -75,9 +76,9 @@
 
 <h3 align="center">📊 My GitHub Journey</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.entelecheia.me?user=hlnajz&theme=dracula&hide_border=true" alt="GitHub Streak" height="110"/>
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/hlnajz?cardType=level&theme=dracula&preferLogin=false&hide_border=true" alt="GitHub Stats" height="110"/>
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hlnajz&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=282a36&title_color=F525F7&icon_color=F8D866" height="110"/>
+  <img src="https://github-readme-streak-stats.entelecheia.me?user=najzdev&theme=dracula&hide_border=true" alt="GitHub Streak" height="110"/>
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/najzdev?cardType=level&theme=dracula&preferLogin=false&hide_border=true" alt="GitHub Stats" height="110"/>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=najzdev&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=282a36&title_color=F525F7&icon_color=F8D866" height="110"/>
 </p>
 
 
