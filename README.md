@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/hlnajz">
-    <img src="https://raw.githubusercontent.com/hlnajz/assets/refs/heads/main/ezgif-4-c4ba695e5f.gif"
+    <img src="https://raw.githubusercontent.com/hlnajz/assets/refs/heads/main/ezgif-7dd263123310df87.gif"
          alt="Hamza Labbaalli - hlnajz"
          width="150" 
          style="border-radius: 10px;" />
