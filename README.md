@@ -121,7 +121,7 @@
 </p>
 
 
-<h3 align="center">📊 My GitHub Journey</h3>
+<h3 align="center">📊 My GitHub Journey yo</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.entelecheia.me?user=najzdev&theme=dracula&hide_border=true" alt="GitHub Streak" height="110"/>
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/najzdev?cardType=level&theme=dracula&preferLogin=false&hide_border=true" alt="GitHub Stats" height="110"/>
