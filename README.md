@@ -27,7 +27,7 @@
 <!-- New profile with old views included -->
 ![](https://komarev.com/ghpvc/?username=najzdev&label=Profile+Views&base=13849&&color=blueviolet&style=flat)
   
-  <h2 align="center" style="border-bottom: none; margin-top: 20px;">Computer Engineer </h2>
+  <h2 align="center" style="border-bottom: none; margin-top: 20px;">Computer Engineer - Full Stack - IoT </h2>
 
 <p align="center" style="max-width: 500px; margin: 0 auto; line-height: 1.3; font-family: 'Segoe UI', Tahoma, sans-serif; font-size: 0.9rem; color: #8b949e;">
     Full-Stack Developer & Master's Student building smart tools with <strong>AI, ML, IoT, and Cybersecurity</strong> to help businesses scale and solve complex challenges.
